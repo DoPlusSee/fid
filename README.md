@@ -1,2 +1,2 @@
 # fid
-First Github Repository for DIG2500.
+First Github Repository for Fundamentals of Interactive Design.
