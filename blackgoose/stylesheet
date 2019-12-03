@@ -69,6 +69,6 @@ p.warning, sup {
   font-variant: small-caps;
   font-style: normal;
 }
-.redirect {
+.menu {
 	text-align: center;
 }
