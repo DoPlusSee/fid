@@ -25,7 +25,14 @@ h3 {
 	color: #a03d1f;
 	font-size: 1em;
 	}
-
+footer {
+ border-top: 1px solid #57b1dc;
+ text-align: center;
+ padding-top: 1em;
+ color: #d1633c;
+ font-weight: bold;
+ margin: 0 15% 0;
+  }
 a {
   text-decoration: none;
 }
