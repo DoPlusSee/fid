@@ -1,7 +1,7 @@
 @charset "UTF-8"
 body {
-  background-color: #f6ddcc;
-  font-family: sans-serif;
+  background-color: #faf2e4;
+  font-family: Georgia, serif;
   font-size: 100%;
   line-height: 175%;
   background-image: url(blackgoose.png);
@@ -14,8 +14,8 @@ header {
 }
 h1 {
   text-align: center;
-  text-shadow: .05em .05em .1em lightslategray;
-  font-family: "Yesteryear", "Brush Script MT", cursive;
+  text-shadow: .03em .03em .1em lightslategray;
+  font-family: Georgia, serif;
   font-weight: normal;
   font-size: 3em;
   border-bottom: 1px solid #57b1dc;
